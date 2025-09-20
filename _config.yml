@@ -38,9 +38,9 @@ author:
   # Social media
   linkedin         : "katherine-pesetski"
 
-  # Resume
-  show_download_resume: true
-  resume_url: "/assets/files/Katherine Pesetski - Resume.pdf"
+  #Resume
+  resume_url: /assets/files/Katherine%20Pesetski%20-%20Resume.pdf
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
