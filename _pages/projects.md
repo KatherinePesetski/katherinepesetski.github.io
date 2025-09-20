@@ -6,25 +6,31 @@ author_profile: true
 ---
 
 ## Academic
-- Global Emergency Autonomous Response System Team Project (Jan, 2025 - May, 2025)
-    - Developed the Global Emergency Autonomous Response System (GEARS), an autonomous rover designed to tackle disaster scenarios
-    - Goal was to create a system capable of traversing challenging terrain, mapping affected areas, ensuring ethical operation, and delivering essential supplies to specific locations
-    - Built using Raspberry Pi and LEGO parts 
-    - Contributions involved designing and assembling the hardware components, such as the chassis, wheel system, battery holder, and payload release mechanism, while also assisting with software debugging
+- Global Emergency Autonomous Response System (GEARS) Team Project (Jan, 2025 - May, 2025)
+    - Designed and built an autonomous rover to navigate disaster zones, map terrain, and deliver supplies  
+    - Constructed chassis, wheel system, battery holder, and payload release mechanism; assisted with software debugging  
+    - Integrated Raspberry Pi and LEGO components to balance affordability and functionality 
+
+    [GEARS Report](assets/files/Proj3_Report_Team03.pdf){: .btn .btn-primary }
+
 - Mars Rover Mobility System (Sept, 2024 - Dec, 2024)
-    - Designed a Mars rover system capable of navigating rough terrain and delivering cargo to designated drop-off points
-    - Built a prototype rover using a Raspberry Pi and LEGO components
-    - Focused primarily on developing the software to control the rover and designing the chassis to ensure stability and maneuverability across uneven surfaces
+    - Developed a prototype rover capable of navigating uneven terrain and performing cargo drop-offs in a simulated Martian environment    
+    - Programmed rover control software and co-designed chassis to maximize stability and maneuverability  
+    - Built with Raspberry Pi and LEGO components for rapid prototyping 
+
+    [Mars Rover Report](assets/files/Proj3_Report_Team78 - Copy.pdf){: .btn .btn-primary }
 
 ## Personal 
 - Cardboard Boat (Apr, 2024 - May, 2024)
-    - Designed and built a cardboard boat to race in a high school wide competition
-    - Created a Magic School Bus themed boat
-    - Started off with the design, making a CAD design that fit the size requirements and material restraints
-    - After weeks on building pontoons, the walls, and exterior decorations, we began painting the design to make it really feel like the magic school bus 
-    - Finally, we sailed on our school's duck pond with four rowers, two on each pontoon, and we had an actual fire, created with the approval of our chemistry teacher, to represent the booster
-    - Our team won two awards: Pure Gall for the most ambitious design and Aesthetic Value for the best looking boat
+    - Designed and raced a cardboard boat themed after the Magic School Bus for a school-wide competition  
+    - Created CAD design, built pontoons and structural supports, and decorated exterior  
+    - Won two awards: *Pure Gall* (most ambitious design) and *Aesthetic Value* (best design)  
+
+    ![The Boat](/images/Boat.jpg)
+
 
 - Hydroponics System (Jun, 2023 - Sept, 2023)
-    - Designed and built a fully functional hydroponics system. 
-    - Created a detailed 3D Computer-Aided Design (3D CAD) model to map out the structure, and used Arduino microcontrollers to automate water flow and monitor system conditions
+    - Built a fully functional hydroponics system with automated water flow and condition monitoring  
+    - Modeled system in CAD and programmed Arduino microcontrollers for automation and sensing  
+
+    [YouTube Video of Hydroponics System](https://www.youtube.com/watch?v=UHeKCqIr41M) 

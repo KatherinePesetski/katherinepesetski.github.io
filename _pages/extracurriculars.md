@@ -8,10 +8,10 @@ author_profile: true
 ## Leadership
 - HonorServes
     - Co-leader of sub-committee within HonorServes, a Honors College club focused on community engagement
-    - Work with partner organization, NICHES Land Trust, to run and facilitate fundraisers and volunteering opportunities geared at their mission of protecting the natural resources and land in West Central Indiana
+    - Partnered with NICHES Land Trust to run and facilitate fundraisers and volunteering opportunities that support their mission of preserving land in West Central Indiana
 
 ## Clubs
-- IEEE 
-    - A part of the Engineering in Medical and Biology Society (EMBS) working on research to revolutionize the future of medicine and healthcare
+- IEEE – Engineering in Medicine and Biology Society (EMBS)
+    - Contribute to research initiatives focused on advancing medical technology and revolutionizing the future of healthcare
 - Outing Club
-    - Participated in hiking, backpacking, and water sport trips around Indiana and surrounding states
+    - Engage in hiking, backpacking, and water sport trips throughout Indiana and surrounding states
